@@ -39,6 +39,10 @@ Dataset yang digunakan ada 2 yaitu :
 
   Dataset yang digunakan diambil dari kaggle, berikut link dataset nya: https://www.kaggle.com/datasets/gunhee/koreahousedata
 
-### PENJELASAN
+### Langkah menjalankan repository ini
+Install semua library yang ada dalam file requirements.txt. Dengan menjalankan di terminal: ```pip install -r requirements.txt```
 
 ### PERBANDINGAN AKURASI SVM DAN ANN
+Hasil perbandingan akurasi SVM klasifikasi dengan ANN Klasifikasi adalah sebagai berikut:
+![SVM klasifikasi]([URL_Gambar](https://drive.google.com/file/d/1TugA-upIZIyiUtHG-1LOIKI3VOsI0JxB/view?usp=drive_link))
+
