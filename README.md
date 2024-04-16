@@ -43,6 +43,9 @@ Dataset yang digunakan ada 2 yaitu :
 Install semua library yang ada dalam file requirements.txt. Dengan menjalankan di terminal: ```pip install -r requirements.txt```
 
 ### PERBANDINGAN AKURASI SVM DAN ANN
-Hasil perbandingan akurasi SVM klasifikasi dengan ANN Klasifikasi adalah sebagai berikut:
-![SVM klasifikasi]([URL_Gambar](https://drive.google.com/file/d/1TugA-upIZIyiUtHG-1LOIKI3VOsI0JxB/view?usp=drive_link))
+- Hasil akurasi untuk pengujian model  SVM klasifikasi adalah 0.70 sedangkan ANN Klasifikasi akurasinya adalah 0.85
+- Hasil MSE ntuk pengujian model SVM regresi adalah 11023728849.599525 sedangkan ANN regresi MSE yaitu 2760456905.482738
+
+- 
+
 
