@@ -16,7 +16,8 @@ dari kedua artikel tersebut maka dikerjakan:
 - Contoh pada artikel kedua menggunakan tensorflow pada python environment
 - ⁠Tugas 2 sebelumnya menggunakan SVM, kerjakan dengan menggunakan ANN pada python environment yang sama
 
-[Repository ini](https://github.com/rahmatulidami/2108107010071_Pertemuan_11_ANN) berisi:
+
+#### [Repository ini](https://github.com/rahmatulidami/2108107010071_Pertemuan_11_ANN) berisi:
 
 - Dataset sebelum dipreprocessing (format csv) yang ada pada folder Dataset
 - ⁠Kode python yang memuat process preprocessing, training, testing dan perhitungan akurasi
@@ -44,8 +45,20 @@ Install semua library yang ada dalam file requirements.txt. Dengan menjalankan d
 
 ### PERBANDINGAN AKURASI SVM DAN ANN
 - Hasil akurasi untuk pengujian model  SVM klasifikasi adalah 0.70 sedangkan ANN Klasifikasi akurasinya adalah 0.85
+  <br> Berikut hasilnya:
+  ![SVM Klasifikasi](https://drive.google.com/uc?export=view&id=1TugA-upIZIyiUtHG-1LOIKI3VOsI0JxB)
+  SVM Klasifikasi
+  
+  ![ANN Klasifikasi](https://drive.google.com/uc?export=view&id=1_RikpuASbAMRi7xCCyb8OgU3L66qJfrV)
+ANN Klasifikasi
+  
+
 - Hasil MSE ntuk pengujian model SVM regresi adalah 11023728849.599525 sedangkan ANN regresi MSE yaitu 2760456905.482738
+    <br> Berikut hasilnya:
+  ![SVM Regresi](https://drive.google.com/uc?export=view&id=1nPbt9rCeCbz6CNvRMQYv_8qSLgaRAY5B)
+SVM Regresi
 
-- 
+  ![ANN Regresi](https://drive.google.com/uc?export=view&id=1EMAahHcZ5zl89e8m3969UgPP25fYn-Mh)
+ANN Regresi
 
-
+Untuk kode model SVM dapat di liat di [Repository ini](https://github.com/rahmatulidami/2108107010071-Pembelajaran-mesin)
